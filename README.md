@@ -2,9 +2,19 @@
 
 A comment is ignored by the JS engine
 
-* demonstrate a single line comment
-* demonstrate a multiple line comment
-
+* a single line comment starts with //
+```
+// Singline line commment
+```
+* a multiple line comment starts with /* and ends with */
+```
+/*
+A 
+multiple
+line
+comment
+*/
+```
 A JavaScript program is one or more JS statements. Like a sentence, a statement is one coherent "thought" or instruction.
 
 * It should appear on its own line
